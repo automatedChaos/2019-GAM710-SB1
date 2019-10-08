@@ -1,7 +1,31 @@
 # 2019-GAM710-SB1
-This is a practice repo for learning some git techniques
 
-Rachel Saunder's favourite quote: "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light." [Dumbledore, Harry Potter Book Series]
+#All Watched Over by Machines of Loving Grace
 
-Alcwyn Parker's favourite quote “We like to think of our champions and idols as superheroes who were born different from us. We don’t like to think of them as relatively ordinary people who made themselves extraordinary.”
-― Carol Dweck
+I like to think (and
+the sooner the better!)
+of a cybernetic meadow
+where mammals and computers
+live together in mutually
+programming harmony
+like pure water
+touching clear sky.
+
+I like to think
+(right now, please!)
+of a cybernetic forest
+filled with pines and electronics
+where deer stroll peacefully
+past computers
+as if they were flowers
+with spinning blossoms.
+
+I like to think
+(it has to be!)
+of a cybernetic ecology
+where we are free of our labors
+and joined back to nature,
+returned to our mammal
+brothers and sisters,
+and all watched over
+by machines of loving grace.
