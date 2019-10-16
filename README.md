@@ -1,6 +1,8 @@
 # 2019-GAM710-SB1
 This is a practice repo for learning some git techniques
 
+16th October - Bob added a branch
+
 Bob was here (Finally) "I Wandered Lonely as a Cloud"
 
 Sahar' here: Judge me by my size, do you?
